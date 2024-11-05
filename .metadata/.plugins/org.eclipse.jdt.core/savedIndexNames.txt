@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+M:\Nexware Solutions\.metadata\.plugins\org.eclipse.jdt.core
+1105498176.index
+1865797976.index
+3299699697.index
